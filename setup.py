@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = "tid-regression-model"
 DESCRIPTION = "Example regression model package from Train In Data."
-URL = ""
+URL = "https://github.com/ankitlade12/ML_Development"
 EMAIL = "ankitlade12@gmail.com"
 AUTHOR = "Ankit Hemant Lade"
 REQUIRES_PYTHON = ">=3.6.0"
