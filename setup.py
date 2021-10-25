@@ -14,11 +14,6 @@ AUTHOR = "Ankit Hemant Lade"
 REQUIRES_PYTHON = ">=3.6.0"
 
 
-# The rest you shouldn't have to touch too much :)
-# ------------------------------------------------
-# Except, perhaps the License and Trove Classifiers!
-# If you do change the License, remember to change the
-# Trove Classifier for that!
 long_description = DESCRIPTION
 
 # Load the package's VERSION file as a dictionary.
